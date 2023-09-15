@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Page](README.md)
+* [Segundo taller de herramientas computacionales para física de altas energías](README.md)
